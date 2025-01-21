@@ -77,7 +77,6 @@ The project calculates five primary Greeks:
 
 4. `Calculating_Option_Greeks_using_Black_Scholes_with_Python.ipynb`
    - Implementation of Greeks calculations
-   - Analysis of option sensitivities
 
 ### 5. Results and Analysis
 #### 5.1 Model Comparison
